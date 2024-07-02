@@ -121,3 +121,8 @@
 /home/thiagobcf/Projetos/DatingAppV2/API/obj/Debug/net8.0/API.csproj.AssemblyReference.cache
 /home/thiagobcf/Projetos/DatingAppV2/API/obj/Debug/net8.0/API.sourcelink.json
 /home/thiagobcf/Projetos/DatingAppV2/API/obj/Debug/net8.0/API.csproj.CopyComplete
+/home/thiagobcf/Projetos/DatingAppV2/API/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/thiagobcf/Projetos/DatingAppV2/API/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/thiagobcf/Projetos/DatingAppV2/API/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/thiagobcf/Projetos/DatingAppV2/API/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/thiagobcf/Projetos/DatingAppV2/API/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
