@@ -126,3 +126,6 @@
 /home/thiagobcf/Projetos/DatingAppV2/API/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
 /home/thiagobcf/Projetos/DatingAppV2/API/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
 /home/thiagobcf/Projetos/DatingAppV2/API/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/thiagobcf/Projetos/DatingAppV2/API/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/thiagobcf/Projetos/DatingAppV2/API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/thiagobcf/Projetos/DatingAppV2/API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
