@@ -22,6 +22,10 @@ export class HomeComponent implements OnInit {
     this.regiterMode = !this.regiterMode      // se atualmente for verdadeiro, será definido como falso.. se atualmente for falso, será definido como verdadeiro.
   }
 
+  cancelRegisterMode(event: boolean) {
+    this.regiterMode = event;
+  }
+
   getUsers() {
     this.http.get('https://localhost:5001/api/users').subscribe({
       next: response => this.users = response,
