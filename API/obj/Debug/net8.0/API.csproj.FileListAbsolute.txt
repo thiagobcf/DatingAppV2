@@ -131,3 +131,5 @@
 /home/thiagobcf/Projetos/DatingAppV2/API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /home/thiagobcf/Projetos/DatingAppV2/API/bin/Debug/net8.0/Data/UserSeedData.json
 /home/thiagobcf/Projetos/DatingAppV2/API/bin/Debug/net8.0/AutoMapper.dll
+/home/thiagobcf/Projetos/DatingAppV2/API/bin/Debug/net8.0/CloudinaryDotNet.dll
+/home/thiagobcf/Projetos/DatingAppV2/API/bin/Debug/net8.0/Newtonsoft.Json.dll
