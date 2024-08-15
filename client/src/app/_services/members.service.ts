@@ -3,7 +3,7 @@ import { inject, Injectable, signal } from '@angular/core';
 import { environment } from '../../environments/environment';
 import { Member } from '../_models/member';
 import { of, tap } from 'rxjs';
-import type { Photo } from '../_models/photo';
+import  { Photo } from '../_models/photo';
 
 @Injectable({
   providedIn: 'root'
@@ -48,7 +48,16 @@ export class MembersService {
     )
   }
 
-  deletePhoto(photoId: number) {
-    return this.http.delete(this.baseUrl + 'users/delete-photo' + photoId)
+  deletePhoto(photo: Photo) {
+    return this.http.delete(this.baseUrl + 'users/delete-photo' + photo.id).pipe(
+      tap(() => {
+        this.members.update(members => members.map(m => {
+          if (m.photos.includes(photo)) {
+            m.photos = m.photos.filter(x => x.id !== photo.id)
+          }
+          return m
+        }))
+      })
+    )
   }
 }
