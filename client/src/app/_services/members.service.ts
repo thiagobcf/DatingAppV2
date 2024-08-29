@@ -4,7 +4,7 @@ import { environment } from '../../environments/environment';
 import { Member } from '../_models/member';
 import { of, tap } from 'rxjs';
 import  { Photo } from '../_models/photo';
-import type { PaginatedResult } from '../_models/pagination';
+import { PaginatedResult } from '../_models/pagination';
 
 @Injectable({
   providedIn: 'root'
