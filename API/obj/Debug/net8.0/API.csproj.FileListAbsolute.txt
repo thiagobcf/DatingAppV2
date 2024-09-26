@@ -133,3 +133,9 @@
 /home/thiagobcf/Projetos/DatingAppV2/API/bin/Debug/net8.0/AutoMapper.dll
 /home/thiagobcf/Projetos/DatingAppV2/API/bin/Debug/net8.0/CloudinaryDotNet.dll
 /home/thiagobcf/Projetos/DatingAppV2/API/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/thiagobcf/Projetos/DatingAppV2/API/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/thiagobcf/Projetos/DatingAppV2/API/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/thiagobcf/Projetos/DatingAppV2/API/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/thiagobcf/Projetos/DatingAppV2/API/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/home/thiagobcf/Projetos/DatingAppV2/API/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/home/thiagobcf/Projetos/DatingAppV2/API/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
